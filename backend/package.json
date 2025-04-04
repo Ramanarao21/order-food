@@ -5,8 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon index.js"
-  },
+  "dev": "nodemon index.js",
+  "start": "node index.js"
+},
   "author": "Ramana",
   "license": "ISC",
   "dependencies": {
